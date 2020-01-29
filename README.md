@@ -1,7 +1,4 @@
-# Multiple-Choice-Quiz-JavaScript
-Today we're going to create a multiple choice quiz using JavaScript, in this quiz, the user will have to choose the correct answer out of three choices, in less than 10 seconds, if the user didn't answer the question in 10sec, it will go to the next question automatically, and the question is marked wrong. the user has a progress bar, that shows the total number of question, and also if the user answered a question correctly or not.
-
-Watch The Tutorial On Youtube: 
-https://www.youtube.com/watch?v=49pYIMygIcU
+Online Course Portal
+The main goal of this project is to build on the engineering and core science courses. An additional video courses were created in all major branches of engineering. User can perform the functionalities like select course, attempt the quiz as well as Admin side admin can perform the functionalities like adding course, talk to students under their course,etc. Several improvements such as indexing of all video and web courses and keyword search will be implemented in future.
 
 
